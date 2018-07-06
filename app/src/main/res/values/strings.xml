@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Saliteos task 2</string>
+    <string name="welcome">Welcome !</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an account?Login</string>
+    <string name="welcome_to_the_home_page">Welcome to the home page</string>
+    <string name="pass2">Password</string>
+    <string name="amaas">Email</string>
+    <string name="logge">Login</string>
+    <string name="lokhej">Login Here</string>
+    <string name="userid">UserId</string>
+    <string name="email22">Email</string>
+    <string name="name">Name</string>
+    <string name="status">Status</string>
+    <string name="usernamegg">Username</string>
+    <string name="useriddd">UserId</string>
+    <string name="emailnn">Email</string>
+    <string name="statussss">Status</string>
+    <string name="refresh">Refresh</string>
+    <string name="logoutttt">Logout</string>
+    <string name="stt">Status</string>
+    <string name="uuuu">Username</string>
+    <string name="kkk">Email</string>
+    <string name="lll">Password</string>
+    <string name="useridlsddkjsd">UserId</string>
+    <string name="statuskk">Status</string>
+</resources>

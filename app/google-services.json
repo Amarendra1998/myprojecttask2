@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706792358119",
+    "firebase_url": "https://saliteostask2.firebaseio.com",
+    "project_id": "saliteostask2",
+    "storage_bucket": "saliteostask2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706792358119:android:9d5a2851b3397788",
+        "android_client_info": {
+          "package_name": "com.example.admin.saliteostask2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706792358119-q72mmlts26aomk8jugsde7k7celgqop9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.saliteostask2",
+            "certificate_hash": "8b7c0efcbcc33cd763b9e940e648d7d88aae1ca6"
+          }
+        },
+        {
+          "client_id": "706792358119-j97du8c4siegqelolpvso1evvjb503qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjxAOKBdUz-wk4UggtzbmFfWPdw83P72c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706792358119-j97du8c4siegqelolpvso1evvjb503qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
